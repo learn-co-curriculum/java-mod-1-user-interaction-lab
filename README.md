@@ -50,11 +50,11 @@ public class Student {
 
 Let's ask the user for input and use our `Student` class! 
 
-First, we will prompt the user for their name and then create a `Student`
-instance with that name.
+First, prompt the user for their name and then create a `Student` instance with
+that name.
 
-Second, we will greet the user by saying, "Hi <name>! What grade did you get on
-the test?" This will prompt the user to enter in an integer value for a grade.
+Second, greet the user by saying, "Hi <name>! What grade did you get on the
+test?" This will prompt the user to enter in an integer value for a grade.
 
-Third, we will call the method `calculateGrade()` which will print a message
-based on the grade the user typed in.
+Third, call the method `calculateGrade()` which will print a message based on
+the grade the user typed in.
